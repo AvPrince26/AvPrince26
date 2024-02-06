@@ -1,0 +1,3 @@
+- 👀 I’m interested in getting good at programming
+- 🌱 I’m currently learning C++, if you have tips i will greatly appreciate them
+- 📫 How to reach me: my socials are all the same
