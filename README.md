@@ -1,18 +1,21 @@
  👋Hello everyone who came across my profile or searched for it.👋
  You don't need to know about me but you need to know what I do/did:
- 
+
+ Work Experience:
+
+ - Tech Repair Company Simulation with school supervision: Roles: Worker, Commercial Manager
 
  ✨Skills/Soft Skills (Softwares included):
  
- -C++
+ - C++
  
- -Java (Basics)
+ - Java (Basics)
  
- -HTML/CSS (Intermediate)
+ - HTML/CSS (Intermediate)
  
- -Managing/Teaching abilities
+ - Managing/Teaching abilities
  
- -Unreal Engine (Basic)
+ - Unreal Engine (Basic)
  
  
 
@@ -22,8 +25,8 @@
 
 
  ☀️Volunteering:
- -14 Hours volunteering in educating elderly people on how to use modern technology (collab with CNA Pensionati).
- -181 Hours volunteering in a summer camp for children (ages 7-13).
+ - 14 Hours volunteering in educating elderly people on how to use modern technology (collab with CNA Pensionati).
+ - 181 Hours volunteering in a summer camp for children (ages 7-13).
   
 
 Here is a picture of a random cat:
