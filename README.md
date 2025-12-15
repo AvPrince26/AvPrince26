@@ -12,7 +12,7 @@ I'm just a kid so if this sucks i dont care that much
  
  - Java (Basics (really basic))
  
- - HTML/CSS (basic)
+ - HTML/CSS/JS (basic) <--- update I forgot it all and hate frontend
  
  - Managing/Teaching abilities
  
@@ -26,8 +26,8 @@ I'm just a kid so if this sucks i dont care that much
 
 
  ☀️Volunteering:
- - 14 Hours volunteering in educating elderly people on how to use modern technology (collab with CNA Pensionati).
- - 262 Hours volunteering in a summer camp for children (ages 7-13).
+  Volunteering in educating elderly people on how to use modern technology (collab with CNA Pensionati).
+  300+ Hours volunteering in a summer camp for children
   
 
 Here is a picture of a random cat:
