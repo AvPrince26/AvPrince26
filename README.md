@@ -4,11 +4,12 @@ I'm just a kid so if this sucks i dont care that much
 
  Work Experience:
 
- - Just simulation of work at school as technicians
+ - simulation of work at school as technicians in a middle school
+ - work-school at 2 cool companies
 
  ✨Skills/Soft Skills (Softwares included):
  
- - C++
+ - C++ (basic)
  
  - Java (Basics (really basic))
  
@@ -17,6 +18,8 @@ I'm just a kid so if this sucks i dont care that much
  - Managing/Teaching abilities
  
  - Unreal Engine (Basic (really basic))
+   
+ - Python
  
  
 
