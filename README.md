@@ -29,8 +29,9 @@
 
 
  ☀️Volunteering:
-  50+ Hours Volunteering in educating elderly people on how to use modern technology (collab with CNA Pensionati).
-  500+ Hours volunteering in a summer camp (Voted Best animator of the Year
+  - 50+ Hours Volunteering in educating elderly people on how to use modern technology (collab with CNA Pensionati).
+    
+  - 500+ Hours volunteering in a summer camp (Voted Best animator of the Year)
   
 
 Here is a picture of a random cat:
