@@ -1,5 +1,5 @@
  👋Hello everyone who came across my profile or searched for it.👋
-I'm just a kid so if this sucks i dont care that much
+ I'm just a kid so if this sucks i dont care that much
  You don't need to know about me but you need to know what I do/did:
 
  Work Experience:
@@ -29,8 +29,8 @@ I'm just a kid so if this sucks i dont care that much
 
 
  ☀️Volunteering:
-  Volunteering in educating elderly people on how to use modern technology (collab with CNA Pensionati).
-  300+ Hours volunteering in a summer camp for children
+  50+ Hours Volunteering in educating elderly people on how to use modern technology (collab with CNA Pensionati).
+  500+ Hours volunteering in a summer camp (Voted Best animator of the Year
   
 
 Here is a picture of a random cat:
