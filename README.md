@@ -1,37 +1,8 @@
- 👋Hello everyone who came across my profile or searched for it.👋
- I'm just a kid so if this sucks i dont care that much
- You don't need to know about me but you need to know what I do/did:
-
- Work Experience:
-
- - simulation of work at school as technicians in a middle school
- - work-school at 2 cool companies
-
- ✨Skills/Soft Skills (Softwares included):
- 
- - C++ (basic)
- 
- - Java (Basics (really basic))
- 
- - HTML/CSS/JS (basic) <--- update I forgot it all and hate frontend
- 
- - Managing/Teaching abilities
- 
- - Unreal Engine (Basic (really basic))
-   
- - Python
+Old readme was cringe enough
  
  
 
 
-
- ⚙️Projects: You can see my GitHub activity.
-
-
- ☀️Volunteering:
-  - 50+ Hours Volunteering in educating elderly people on how to use modern technology (collab with CNA Pensionati).
-    
-  - 500+ Hours volunteering in a summer camp (Voted Best animator of the Year)
   
 
 Here is a picture of a random cat:
